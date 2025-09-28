@@ -26,9 +26,20 @@ This project replicates the Razorpay homepage UI and demonstrates responsive lay
    git clone https://github.com/<amankv1234>/razorpay-clone.git
    cd razorpay-clone
    2. Install dependencies (if using Tailwind with npm):
+### Running Tests
 
+To run the test suite, first install the dependencies:
+
+```bash
 npm install
+```
+
+Then run `npm test`:
+
+```bash
 npm run dev
+```
+
 
 
 3. Open in browser:
